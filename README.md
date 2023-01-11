@@ -9,9 +9,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="sass" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" style="max-width: 100%;">
-  <img align="center" alt="styled" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" style="max-width: 100%;">
-  <img align="center" alt="gatsby" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" style="max-width: 100%;">
-  <img align="center" alt="node" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" style="max-width: 100%;">  
+  <img align="center" alt="styled" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" style="max-width: 100%;">
+  <img align="center" alt="styled" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" style="max-width: 100%;"> 
+  <img align="center" alt="gatsby" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" style="max-width: 100%;">
+  <img align="center" alt="node" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" style="max-width: 100%;">  
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
 </div>
 
